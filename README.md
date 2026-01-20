@@ -239,4 +239,11 @@ npm run build
 
 👨‍💻 Author
 Sania Parveen
+<img width="1902" height="912" alt="login" src="https://github.com/user-attachments/assets/8d8c154f-ff8b-4f80-bea3-9d5181813f35" />
+
+<img width="1912" height="851" alt="admin dashboard" src="https://github.com/user-attachments/assets/ce6de8af-e33f-447a-8177-63885fcec83b" />
+<img width="1902" height="908" alt="recuiter dashboard" src="https://github.com/user-attachments/assets/c4fd13ab-7501-49ed-8dd4-8196af3a2005" />
+<img width="1897" height="957" alt="student dashboard" src="https://github.com/user-attachments/assets/82cf6b94-ee26-41e9-8391-b8ca9b31dc89" />
+
+
 
